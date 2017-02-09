@@ -7,8 +7,9 @@ The goal of this repository is to provide an overview of third party projects in
 - [Client integrations](#Client-integrations)
 - [Distributions integrating Kopano](#Distributions-integration-kopano)
 - Kopano WebApp
-  - Plugins/Integrations
-  - Themes
+  - [Plugins/Integrations](Plugins-Integrations)
+  - [Themes](#Themes)
+- [Howtos and Guides](#Howtos-and-Guides)
 
 ### Client integrations
 - [Z-Push](https://wiki.z-hub.io/display/ZP) - Integrates mobilde devices into Kopano through the ActiveSync protocol.
@@ -21,3 +22,5 @@ The goal of this repository is to provide an overview of third party projects in
 #### Plugins/Integrations
 
 #### Themes
+
+### Howtos and Guides
