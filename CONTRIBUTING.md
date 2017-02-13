@@ -10,7 +10,8 @@ Please ensure your pull request adheres to the following guidelines:
 * There should be no code, e.g. zip files, in the pull request (or this repository itself). This repository is for information and listing purposes only. 
 * New categories, or improvements to the existing categorization are welcome.
 * All listings within a category should be alphabetical. 
-* Keep descriptions short and simple. 
+* Keep descriptions short and simple.
+* The *syntax* for links is ```[Name](http://homepage/) - Short description. [Demo](http://url.to/demo), [Source Code](http://url.of/source/code) `License` `WIP/beta/stable` ```. The Demo and Source links are optional. License can be any OSS license, or "closed" for closed source.
 * End all descriptions with a full stop/period.
 * Check your spelling and grammar.
 
