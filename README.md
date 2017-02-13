@@ -12,7 +12,7 @@ The goal of this repository is to provide an overview of third party projects in
 - [Howtos and Guides](#Howtos-and-Guides)
 
 ### Client integrations
-- [Z-Push](https://wiki.z-hub.io/display/ZP) - Integrates mobilde devices into Kopano through the ActiveSync protocol.
+- [Z-Push](https://wiki.z-hub.io/display/ZP) - Integrates mobile devices into Kopano through the ActiveSync protocol.
 
 ### Distributions integrating Kopano
 - [Kopano4UCS](https://wiki.z-hub.io/display/K4U/Kopano4UCS+Home) - Install and manage Kopano through the Univention Management Console.
