@@ -25,7 +25,7 @@ The goal of this repository is to provide an overview of third party projects in
 
 #### Plugins/Integrations
 - [Google2FA](https://community.zarafa.com/pg/plugins/project/32087/developer/norman/) - WebApp two-factor authentication with Google Authenticator. [Source Code](https://bitbucket.org/normanth/google2fa) `unkown license` `stable`
-- [Gravator](https://github.com/flok99/zarafa_gravatar) - Show a Gravatar avatar when no photo is set in the contacts. [Source Code](https://github.com/flok99/zarafa_gravatar) `GPL-2.0` `stable`
+- [Gravatar](https://github.com/flok99/zarafa_gravatar) - Show a Gravatar avatar when no photo is set in the contacts. [Source Code](https://github.com/flok99/zarafa_gravatar) `GPL-2.0` `stable`
 - [WebApp IMAP Import](zarafa-webapp-imap-import) - Plugin for Zarafa WebApp for importing IMAP accounts. [Source Code](https://github.com/oxilion/zarafa-webapp-plugin-imapsync) `AGPL-3.0` `stable`
 - [WebApp Passwd](https://github.com/silentsakky/zarafa-webapp-passwd) - Plugin to add functionality of changing of password from Zarafa WebApp. [Source Code](https://github.com/silentsakky/zarafa-webapp-passwd) `AGPLv3` `stable`
 - [WebApp privacyIDEA](https://github.com/bytemine/webapp-privacyidea) - Zarafa WebApp plugin to integrate 2FA with privacyIDEA. [Source Code](https://github.com/bytemine/webapp-privacyidea) `AGPLv3` `stable`
