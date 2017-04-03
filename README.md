@@ -5,6 +5,7 @@ The goal of this repository is to provide an overview of third party projects in
 ## Table of contents
 
 - [Client integrations](#Client-integrations)
+- [Data integrations](#Data-integraions)
 - [Distributions integrating Kopano](#Distributions-integration-kopano)
 - [Migration Helpers](#Migration-helpers)
 - Kopano WebApp
@@ -14,6 +15,9 @@ The goal of this repository is to provide an overview of third party projects in
 
 ### Client integrations
 - [Z-Push](https://wiki.z-hub.io/display/ZP) - Integrates mobile devices into Kopano through the ActiveSync protocol. [Source Code](https://stash.z-hub.io/projects/ZP/repos/z-push/) `AGPLv3` `stable`
+
+### Data integrations
+- [Kopano2JIRA](https://confluence.soenke-martens.de/display/PROJ/Kopano+to+Atlassian+JIRA+Adressbook+Sync) - Synchronizes all contacts of a Kopano folder one way to JIRA contact issues. [Source Code](https://bitbucket.soenke-martens.de/projects/JD/repos/kopano2jira/browse) `unkown license` `experimental`
 
 ### Distributions integrating Kopano
 - [Kopano4UCS](https://wiki.z-hub.io/display/K4U/Kopano4UCS+Home) - Install and manage Kopano through the Univention Management Console. [Demo](https://www.univention.com/products/univention-app-center/app-catalog/kopano-core/), [Source Code](https://stash.z-hub.io/projects/K4U/repos/kopano4ucs/browse) `AGPLv3` `stable`
