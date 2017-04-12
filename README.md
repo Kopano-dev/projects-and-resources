@@ -28,6 +28,9 @@ The goal of this repository is to provide an overview of third party projects in
 
 ### Kopano dAgent/Spooler Plugins
 
+#### Plugins/Integrations
+- [Kopano-dagent RewriteGALAddressesToSMTP](https://notabug.org/hp/kopano-dagent-rewritegaladdresses) - This plugin prevents dagent from changing recipient headers in emails on delivery. If you use aliases this allows you to see what alias a message was sent to. [Source Code](//notabug.org/hp/kopano-dagent-rewritegaladdresses) `AGPL-3.0+` `stable`
+
 ### Kopano WebApp
 
 #### Plugins/Integrations
