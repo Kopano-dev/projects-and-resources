@@ -8,6 +8,8 @@ The goal of this repository is to provide an overview of third party projects in
 - [Data integrations](#Data-integraions)
 - [Distributions integrating Kopano](#Distributions-integration-kopano)
 - [Migration Helpers](#Migration-helpers)
+- [User Management](#User-Management)
+
 - [Kopano dAgent/Spooler Plugins](#Kopano-dAgent-Spooler-Plugins)
 - Kopano WebApp
   - [Plugins/Integrations](#Plugins-Integrations)
@@ -25,6 +27,9 @@ The goal of this repository is to provide an overview of third party projects in
 
 ### Migration Helpers
 - [egroupware2zarafa](https://github.com/bytemine/egroupware2zarafa) - Some scripts to export egroupware contacts and calendar data so it can be imported into Outlook/Zarafa. [Source Code](https://github.com/bytemine/egroupware2zarafa) `unknown license` `stable`
+
+### User Management
+-
 
 ### Kopano dAgent/Spooler Plugins
 
