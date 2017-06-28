@@ -29,7 +29,7 @@ The goal of this repository is to provide an overview of third party projects in
 - [egroupware2zarafa](https://github.com/bytemine/egroupware2zarafa) - Some scripts to export egroupware contacts and calendar data so it can be imported into Outlook/Zarafa. [Source Code](https://github.com/bytemine/egroupware2zarafa) `unknown license` `stable`
 
 ### User Management
--
+- [LDAP Account Manager](https://www.ldap-account-manager.org/) - LAM Pro manages various account types in an LDAP directory. Kopano users, contacts, groups, dynamic groups and servers are supported.
 
 ### Kopano dAgent/Spooler Plugins
 
