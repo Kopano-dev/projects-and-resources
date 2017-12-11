@@ -4,17 +4,17 @@ The goal of this repository is to provide an overview of third party projects in
 
 ## Table of contents
 
-- [Client integrations](#Client-integrations)
-- [Data integrations](#Data-integraions)
-- [Distributions integrating Kopano](#Distributions-integration-kopano)
-- [Migration Helpers](#Migration-helpers)
-- [User Management](#User-Management)
+- [Client integrations](#client-integrations)
+- [Data integrations](#data-integraions)
+- [Distributions integrating Kopano](#distributions-integration-kopano)
+- [Migration Helpers](#migration-helpers)
+- [User Management](#user-Management)
 
-- [Kopano dAgent/Spooler Plugins](#Kopano-dAgent-Spooler-Plugins)
+- [Kopano dAgent/Spooler Plugins](#kopano-dagentspooler-plugins)
 - Kopano WebApp
-  - [Plugins/Integrations](#Plugins-Integrations)
-  - [Themes](#Themes)
-- [Howtos and Guides](#Howtos-and-Guides)
+  - [Plugins/Integrations](#pluginsintegrations-1)
+  - [Themes](#themes)
+- [Howtos and Guides](#howtos-and-guides)
 
 ### Client integrations
 - [Z-Push](https://wiki.z-hub.io/display/ZP) - Integrates mobile devices into Kopano through the ActiveSync protocol. [Source Code](https://stash.z-hub.io/projects/ZP/repos/z-push/) `AGPLv3` `stable`
