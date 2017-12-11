@@ -5,7 +5,7 @@ The goal of this repository is to provide an overview of third party projects in
 ## Table of contents
 
 - [Client integrations](#client-integrations)
-- [Data integrations](#data-integraions)
+- [Data integrations](#data-integrations)
 - [Distributions integrating Kopano](#distributions-integration-kopano)
 - [Migration Helpers](#migration-helpers)
 - [User Management](#user-Management)
