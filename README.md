@@ -8,13 +8,15 @@ The goal of this repository is to provide an overview of third party projects in
 - [Data integrations](#data-integrations)
 - [Distributions integrating Kopano](#distributions-integrating-kopano)
 - [Migration Helpers](#migration-helpers)
+- [Monitoring](#monitoring)
 - [User Management](#user-Management)
 
 - [Kopano dAgent/Spooler Plugins](#kopano-dagentspooler-plugins)
 - Kopano WebApp
   - [Plugins/Integrations](#pluginsintegrations-1)
   - [Themes](#themes)
-- [Howtos and Guides](#howtos-and-guides)
+- Other
+  - [Howtos and Guides](#howtos-and-guides)
 
 ### Client integrations
 - [Z-Push](https://wiki.z-hub.io/display/ZP) - Integrates mobile devices into Kopano through the ActiveSync protocol. [Source Code](https://stash.z-hub.io/projects/ZP/repos/z-push/) `AGPLv3` `stable`
@@ -28,6 +30,9 @@ The goal of this repository is to provide an overview of third party projects in
 
 ### Migration Helpers
 - [egroupware2zarafa](https://github.com/bytemine/egroupware2zarafa) - Some scripts to export egroupware contacts and calendar data so it can be imported into Outlook/Zarafa. [Source Code](https://github.com/bytemine/egroupware2zarafa) `unknown license` `stable`
+
+### Monitoring
+- [Nagios4Kopano](https://exchange.nagios.org/directory/Plugins/Email-and-Groupware/Others/Nagios4Kopano/details) - This nagios plugin allows you to monitor your Kopano server by using the command kopano-stats --system. `GPL` `stable`
 
 ### User Management
 - [LDAP Account Manager](https://www.ldap-account-manager.org/) - LAM Pro manages various account types in an LDAP directory. Kopano users, contacts, groups, dynamic groups and servers are supported.
