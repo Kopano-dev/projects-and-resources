@@ -27,6 +27,7 @@ The goal of this repository is to provide an overview of third party projects in
 ### Anti Spam Integrations
 
 - [inotify-spamlearn](https://github.com/bkram/inotify-spamlearn) - A companion to the Kopano Core kopano-spamd, which is included from Kopano Core 8.6 new, this tool can handle the actual spam and ham processing. `GPL-3.0`
+- [kopano-dspam](https://github.com/psy0rz/kopano-dspam) - Monitors a Kopano server for mail-movements between folders to train a users Spamfilter (for example dspam or spamassasin)
 
 ### Client integrations
 
