@@ -6,6 +6,7 @@ The goal of this repository is to provide an overview of third party projects in
 
 - [Antivirus Helpers](#antivirus-helpers)
 - [Anti Spam Helpers](#anti-spam-integrations)
+- [Authentication integrations](#authentication-integrations)
 - [Client integrations](#client-integrations)
 - [Data integrations](#data-integrations)
 - [Distributions integrating Kopano](#distributions-integrating-kopano)
@@ -28,6 +29,10 @@ The goal of this repository is to provide an overview of third party projects in
 
 - [inotify-spamlearn](https://github.com/bkram/inotify-spamlearn) - A companion to the Kopano Core kopano-spamd, which is included from Kopano Core 8.6 new, this tool can handle the actual spam and ham processing. `GPL-3.0`
 - [kopano-dspam](https://github.com/psy0rz/kopano-dspam) - Monitors a Kopano server for mail-movements between folders to train a users Spamfilter (for example dspam or spamassasin)
+
+### Authentication integrations
+
+- [pam_mapi](https://linux.robert-scheck.de/software/pam_mapi/) - PAM module for authentication via MAPI against a Kopano server. [Source Code](https://ftp.robert-scheck.de/linux/pam_mapi/) `BSD/GPLv2+` `stable`
 
 ### Client integrations
 
