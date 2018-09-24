@@ -69,6 +69,7 @@ The goal of this repository is to provide an overview of third party projects in
 
 #### Plugins/Integrations
 
+- [Autodelete](https://github.com/bytemine/autodelete) - This plugin together with a script allows deleting of objects after a certain period. [Source Code](https://github.com/bytemine/autodelete)  `AGPL-3.0` `stable`
 - [Calendar Importer and Exporter](https://git.sprinternet.at/zarafa_webapp/calendarimporter) - This plugin for the Zarafa Webapp provides a ICAL calendar importer. [Source Code](https://git.sprinternet.at/zarafa_webapp/calendarimporter) `unknown license` `stable`
 - [Contact Importer and Exporter](https://git.sprinternet.at/zarafa_webapp/contactimporter) - The contact importer plugin for the Zarafa WebApp. [Source Code](https://git.sprinternet.at/zarafa_webapp/contactimporter) `unknown license` `stable`
 - [Google2FA](https://www.familiethimm.de/en/google2fa-kopano-zarafa-2-faktor-authentifizierung-2fa-google-authenticator/) - WebApp two-factor authentication with Google Authenticator. [Source Code](https://bitbucket.org/normanth/google2fa) `AGPL` `stable`
